@@ -59,6 +59,7 @@ This project is a **Hashtag Sentiment Analysis Dashboard** built with **Next.js*
 
 ---
 
+
 ## How to Run
 
 ```bash
@@ -66,3 +67,6 @@ git clone https://github.com/gbengacode/hashtag-sentiment-dashboard.git
 cd hashtag-sentiment-dashboard
 npm install
 npm run dev
+```
+## Live Demo
+[Visit Hashtag Sentiment Dashboard](https://hashtag-sentiment-dashboard.vercel.app)
